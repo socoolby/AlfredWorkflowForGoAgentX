@@ -1,5 +1,5 @@
 # AlfredWorkflowForGoAgentX
-A workflow to add rule to GoAgent thought Alfred, and run/close Service, change proxy mode.
+A workflow to add rule to GoAgent through Alfred, and run/close Service, change proxy mode.
 
 #### goa a 
 change proxy mode to use pac</br>
